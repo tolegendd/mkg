@@ -5,3 +5,4 @@ jira.bcc.kz
 keyPassword bcc.kz #4fgdgf@fkgk
 zen_key @bcc.kz dfssdf@
 aws_config 
+AIzaSyA1234567890ExampleKeyDoNotUseSign
